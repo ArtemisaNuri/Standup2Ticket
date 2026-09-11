@@ -1,4 +1,4 @@
-# Sift
+# Standup2Ticket
 
 Turns messy meeting transcripts into structured, reviewed tickets — created directly in Linear, with a summary written to Notion.
 
